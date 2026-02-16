@@ -1,0 +1,43 @@
+{
+    "automappingRulesFile": "",
+    "commands": [],
+    "compatibilityVersion": 1100,
+    "extensionsPath": "extensions",
+    "folders": [
+        "."
+    ],
+    "properties": [
+        {
+            "name": "scriptPath",
+            "propertytype": "",
+            "type": "string",
+            "value": "/"
+        },
+        {
+            "name": "wiki",
+            "propertytype": "",
+            "type": "string",
+            "value": "deltarune.wiki"
+        },
+        {
+            "name": "languageWiki",
+            "propertytype": "",
+            "type": "string",
+            "value": "$1.deltarune.wiki"
+        },
+        {
+            "name": "oauthClientId",
+            "propertytype": "",
+            "type": "string",
+            "value": "68e40ad6df0d30b5b60b097d83f2d3af"
+        },
+        {
+            "name": "languages",
+            "propertytype": "",
+            "type": "string",
+            "value": "en,zh"
+        }
+    ],
+    "propertyTypes": [
+    ]
+}

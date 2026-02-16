@@ -1,0 +1,88 @@
+{
+    "activeFile": "Great Board.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "2nd Sanctuary.tmx": {
+            "scale": 0.087890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 9779.2,
+                "y": 5364.622222222222
+            }
+        },
+        "Field.tmx": {
+            "scale": 0.1803560606060606,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 6121.224849834083,
+                "y": 937.035325744529
+            }
+        },
+        "Great Board zh.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 1.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 6011.666666666666,
+                "y": 148.66666666666663
+            }
+        },
+        "Great Board.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 0.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 3049,
+                "y": 119
+            }
+        },
+        "Ice Palace.tmx": {
+            "scale": 0.35024181547619043,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1343.357586701365,
+                "y": 766.6132030378673
+            }
+        },
+        "TV Studio.tmx": {
+            "scale": 0.14144778481012657,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4135.801778622967,
+                "y": 1215.9964203814534
+            }
+        },
+        "TV World.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 0.25,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 37812,
+                "y": 4076
+            }
+        }
+    },
+    "openFiles": [
+        "Great Board.tmx"
+    ],
+    "project": "deltarune.tiled-project",
+    "recentFiles": [
+        "Great Board.tmx",
+        "TV World.tmx",
+        "TV Studio.tmx",
+        "Field.tmx",
+        "Ice Palace.tmx",
+        "2nd Sanctuary.tmx",
+        "Great Board zh.tmx"
+    ],
+    "wikiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI2OGU0MGFkNmRmMGQzMGI1YjYwYjA5N2Q4M2YyZDNhZiIsImp0aSI6IjlhMGM1MGEwYTE5Yzc3YWZjMDAzMTRlMWQyMWRhMTJlODQ4YmQ5ZTVjZTMyMzFmYjkzYzg2MDU0NDQ1MjRhYTQ4ZTY5MjU0ODNmYmI1OWFhIiwiaWF0IjoxNzcxMjEyODQzLjkwMDIwMiwibmJmIjoxNzcxMjEyODQzLjkwMDIwNSwiZXhwIjoxNzcxMjE2NDQzLjg4ODQ1NCwic3ViIjoiNTczNzc4NzciLCJpc3MiOiJodHRwczovL3poLmRlbHRhcnVuZS53aWtpIiwic2NvcGVzIjpbImJhc2ljIiwiZWRpdHBhZ2UiLCJjcmVhdGVlZGl0bW92ZXBhZ2UiXX0.THIgeIKG5mHTtnevz2F9pKy11NWW6rieKM-sfHMqJoa9JWXqgcXkTDJI7eeX8fKYNplvwkxFX-mWDtFV3Qw0Gc8JX1IEKjvUc-fpUV4TmWVsBa2T2e0I37CCihC5Ubb3muhCVCBXac1jDsiuYWRTzPhuenACPIHCJAfCWa3w9Y4YwpKcMcbVdYOsPZcRS98YpGG4sE_hDTi2q9vY19hQepcYmJ4l4jSCm3FKsj6b-kxv_Z3Wm5Caej1VarFbamD7qSK0EI7v_G-lwJxqkDfWzDp3TagAHWmvownte7Mzl0uojyPmrVofvt2HWfcIfrp_TL5x6KAQUGC0YLjHOEkVyg",
+    "wikiLastLanguage": "zh"
+}
