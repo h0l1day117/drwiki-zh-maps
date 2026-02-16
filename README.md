@@ -6,6 +6,8 @@ deltarune中文wiki地图仓库 zh.deltarune.wiki
 1. 从本仓库或https://github.com/utdrwiki/maps 下载zip解压，或git clone到本地，现有游戏地图基本都已包含
 2. 下载并安装Tiled软件https://www.mapeditor.org/
 3. 用Tiled打开仓库文件夹里的“deltarune.tiled-session”，它会提示安装插件，插件一定要装。
+<img width="543" height="105" alt="image" src="https://github.com/user-attachments/assets/7248ca8b-ef81-4972-b54f-6e52694c2d79" />
+
 4. 侧栏的所有父级（紫色图标）的名字都不需要改，wiki会自动识别。依次展开侧栏里的对象，**Wiki language选择简体中文**，左边一列是你的翻译，右边一列是原文参考。翻译的语法跟wiki编辑页面的语法相同。底部Page一栏是这个注释本身链接的页面，一般对照英文版的找到中文对应页面即可。Image也是对应英文，大部分都空着的。注意无论哪里要包含中文wiki页面，建议每个都要直接去那个页面的地址把"/w/"后面的文字复制过来，否则容易因简体繁体的字符不同而找不到页面，也因为在这里编辑没有wiki的联想功能。
 
 <img width="522" height="500" alt="image" src="https://github.com/user-attachments/assets/e4096c73-c634-41f7-89ba-3730eec9e523" />
