@@ -2,7 +2,7 @@
 deltarune中文wiki地图仓库 zh.deltarune.wiki
 关于如何创建地图敬请参考https://undertale.wiki/d/t/interactive-maps-project/318 ，一般来说翻译地图不需要修改原地图，仅需翻译文本。
 ## 修改翻译一定要先从本仓库下载文件，再本地修改。改完后先传到本仓库，再传Wiki，不要直接在Wiki上改地图代码。这样大家可以协作翻译！
-## 关于如何上传：请通过提交issue、在[贴吧](https://tieba.baidu.com/p/10492270125) 下评论、或者发邮件给[这个邮箱](ls3239855520@foxmail.com)，并提供你的github用户名，我会把你加入collaborator，这样你就可以直接通过Add Files -> Upload Files来上传。不加入collaborator的话，也可以用pull request，我已开启自动合并。
+## 关于如何上传：请通过提交issue、在[贴吧](https://tieba.baidu.com/p/10492270125) 下评论、或者发邮件给ls3239855520@foxmail.com，并提供你的github用户名，我会把你加入collaborator，这样你就可以直接通过Add Files -> Upload Files来上传。不加入collaborator的话，也可以用pull request，我已开启自动合并。
 ### 翻译地图简要流程
 1. 从本仓库或https://github.com/utdrwiki/maps 下载zip解压，或git clone到本地，现有游戏地图基本都已包含
 2. 下载并安装Tiled软件https://www.mapeditor.org/
